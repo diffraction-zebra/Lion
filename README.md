@@ -1,2 +1,4 @@
 # Lion
-Torch support implementation of Lion optimizer. Article: https://arxiv.org/abs/2302.06675
+Torch implementation of [Lion](https://arxiv.org/abs/2302.06675) optimizer.
+
+Currently supports sparse gradients and foreach realization.
